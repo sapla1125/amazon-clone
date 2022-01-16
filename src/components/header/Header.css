@@ -25,8 +25,9 @@
 .header__logo{
     width: 100px;
     object-fit: contain;
-    margin: 18px 20px 0;
+    margin: 18px 20px 0;   
 }
+
 .header__searchIcon{
     padding: 6.5px;
     height: 22px !important;
@@ -64,6 +65,7 @@
     padding: 0 0 0 10px;
 
 }
+
 
 .header__locationLogo{
     
