@@ -26,3 +26,7 @@
     font-size: 17px;
     font-weight: 800;
 }
+
+.checkoutProduct__star{
+    padding-right: 8px;
+}
