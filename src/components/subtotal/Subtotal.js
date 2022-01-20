@@ -16,7 +16,7 @@ function Subtotal() {
                         <p>
                                 {/* HW */}
                             Subtotal ({basket.length} items):
-                            <strong>{getBasketTotal(basket)}</strong>
+                            <strong>{(getBasketTotal(basket)).toFixed(2)}</strong>
                         </p>
                         <small className='subtotal__gift'>
                             <input type="checkbox" /> This order contains a gift
